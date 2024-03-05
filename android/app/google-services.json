@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780173002667",
+    "project_id": "new-one-bc054",
+    "storage_bucket": "new-one-bc054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780173002667:android:52d06a73c15efed19474ee",
+        "android_client_info": {
+          "package_name": "com.example.firebase_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFWJWWQND4zB2exdtEfUfXajorxuxW2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
